@@ -1,4 +1,4 @@
-# Quantum computing languages are specialized programming languages designed to express quantum algorithms, manipulate quantum circuits, and interact with quantum hardware. Here's an overview of some key quantum computing languages:
+## Quantum computing languages are specialized programming languages designed to express quantum algorithms, manipulate quantum circuits, and interact with quantum hardware. Here's an overview of some key quantum computing languages:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29sbXhzejJrMWlibDJta284dTloaHUwZnZrNmVkcXg0amJ1MXIzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YiXlMXwRY7brPzk1gU/giphy.gif" width = "300"/>

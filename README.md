@@ -1,5 +1,9 @@
 # Quantum computing languages are specialized programming languages designed to express quantum algorithms, manipulate quantum circuits, and interact with quantum hardware. Here's an overview of some key quantum computing languages:
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29sbXhzejJrMWlibDJta284dTloaHUwZnZrNmVkcXg0amJ1MXIzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YiXlMXwRY7brPzk1gU/giphy.gif"/>
+</div>
+
 ## Qiskit:
 Developed by IBM, Qiskit is an open-source quantum computing framework that includes a high-level quantum programming language embedded in Python.
 Qiskit allows users to define quantum circuits, execute them on simulators or real quantum devices, and analyze the results.

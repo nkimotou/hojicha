@@ -29,7 +29,5 @@ PyQuil is a Python library developed by Rigetti Computing for quantum programmin
 It provides tools for constructing, simulating, and executing quantum circuits using the Quil language, which is a low-level quantum instruction language.
 PyQuil allows users to interact with Rigetti's quantum processors and perform quantum computations in the cloud.
 
-
-<a href="https://www.ibm.com/quantum/qiskit"</a>
-![anthropic](https://cdn.svgporn.com/logos/ibm.svg)
+![IBM](https://cdn.svgporn.com/logos/ibm.svg)
 

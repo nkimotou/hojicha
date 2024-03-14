@@ -30,5 +30,5 @@ It provides tools for constructing, simulating, and executing quantum circuits u
 PyQuil allows users to interact with Rigetti's quantum processors and perform quantum computations in the cloud.
 
 <div id="footer" align="center">
-  <img src="https://cdn.svgporn.com/logos/ibm.svg"/>
+  <img src="https://cdn.svgporn.com/logos/ibm.svg" width = "250"/>
 </div>
